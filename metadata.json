@@ -1,0 +1,14 @@
+{
+	"description" : "Logitech G535 headset battery indicator using HeadsetControl",
+	"name" : "G535 Battery Indicator",
+	"shell-version": [
+		"42",
+		"43",
+		"44"
+	],
+	"url" : "https://github.com/LuscaCodes/g535-battery-indicator",
+	"uuid" : "g535-battery-indicator@luscacodes.github.com",
+	"version" : 1,
+	"author": "Lusca"
+}
+
